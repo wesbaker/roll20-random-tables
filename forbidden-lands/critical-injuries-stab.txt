@@ -1,0 +1,18 @@
+!import-table --forbidden-lands-critical-injuries-stab --show
+!import-table-item --forbidden-lands-critical-injuries-stab --Pierced ear --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Skewered foot (RUN is a slow action; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Hand run through (Cannot use two-handed weapons; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Pierced cheek (-1 to Manipulation; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Impaled thigh (RUN is a slow action; Healing Time: 2D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Severed tendon (RUN is a slow action; Healing Time: 3D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Impaled shoulder (Cannot use two-handed weapons; Healing Time: 2D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Pierced eye (-2 to Marksmanship and Scouting; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Skewered groin (1 point of damage suffered at every Move or Melee roll; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Punctured Lung (-2 to Endurance and Move; Die in D6 Days; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Bleeding gut (1 point of damage each roll for Might, Move, and Melee; Die in D6 Hours; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Ruptured intestines (Disease with Virulence 6; Die in D6 Hours; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Severed arm artery (Cannot use two-handed weapons; Die in D6 Minutes (-1 to Save a Life); Healing Time: D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Severed leg artery (RUN is a slow action; Die in D6 Minutes (-1 to Save a Life); Healing Time: D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Impaled neck (-2 to Endurance; Die in D6 Rounds (-1 to Save a Life); Healing Time: 2D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Skewered skull (You die at once) --1 --
+!import-table-item --forbidden-lands-critical-injuries-stab --Pierced heart (Your heart beats for the last time) --2 --

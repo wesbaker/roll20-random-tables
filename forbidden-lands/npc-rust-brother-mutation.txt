@@ -1,0 +1,9 @@
+!import-table --forbidden-lands-npc-rust-brother-mutation --hide
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Four Arms: Can perform one additional slow or fast action every round with the extra pair of arms.
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Multiple Eyes: Gets a +2 bonus to all attempts to spot a sneak attack or an ambush.
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Fangs: Weapon Damage 1 (slash) and lethal poison (Potency 6)
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Claws: Weapon Damage 2 (slash)
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Tentacles: +2 to all Grapple attempts
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Sores: Touch is contagious, Virulence 6
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Wings: Can fly. Movement rate 2.
+!import-table-item --forbidden-lands-npc-rust-brother-mutation --Roll Twice

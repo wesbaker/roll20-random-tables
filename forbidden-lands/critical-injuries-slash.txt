@@ -1,0 +1,20 @@
+!import-table --forbidden-lands-critical-injuries-slash --show
+!import-table-item --forbidden-lands-critical-injuries-slash --Bleeding forehead --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed nose (-1 to Manipulation; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed finger (Cannot use two-handed weapons; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed toe (RUN is a slow action; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Bleeding thigh (RUN is a slow action; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Slashed mouth (-2 to Manipulation; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed tendon (RUN is a slow action; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Wounded shoulder (Cannot use two-handed weapons; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed ear (-1 to Scouting; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Slashed eye (-2 to Marksmanship and Scouting; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Punctured Lung (-2 to Endurance and Move; Die in D6 Days; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed foot (RUN is a slow action; Die in D6 Days; Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Bleeding gut (1 point of damage each roll for Might, Move, and Melee; Die in D6 Hours; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Ruptured intestines (Disease with Virulence 6; Die in D6 Hours; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed arm (Cannot use two-handed weapons; Die in D6 Hours (-1 to Save a Life); Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Severed leg (RUN is a slow action; Die in D6 Hours (-1 to Save a Life); Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Slit throat (-2 to Endurance; Die in D6 Rounds (-1 to Save a Life); Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Cleft skull (You die immediately) --1 --
+!import-table-item --forbidden-lands-critical-injuries-slash --Decapitation (Your head leaves  your body) --1 --

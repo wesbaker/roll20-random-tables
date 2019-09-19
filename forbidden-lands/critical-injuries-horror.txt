@@ -1,0 +1,18 @@
+!import-table --forbidden-lands-critical-injuries-horror --show
+!import-table-item --forbidden-lands-critical-injuries-horror --Trembling (-1 to all rolls for Agility; Healing Time: D6 Days) --6 --
+!import-table-item --forbidden-lands-critical-injuries-horror --White hair (Healing Time: Permanent) --1 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Anxious (-1 to all rolls for Wits; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Sullen (-1 to all rolls for Empathy; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Nightmares (Make an Insight roll every Quarter Day spent Sleeping. Failure means that the Sleep doesn't count; Healing Time: D6 Days) --4 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Nocturnal (You can only Sleep during the light part of the day; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Phobic (You are terrified related to what Broke you. You suffer 1 point of damage to Wits each round spent Near the object of your phobia; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Drunkard (You must drink wine or mead every day or suffer 1 point of damage to Agility; Healing Time: 3D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Claustrophobic (Every turn (15 minutes) in a confined space, you suffer 1 point of damage to Wits; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Mythomania (You cannot stop yourself from lying; Healing Time: 2D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Paranoia (You are certain someone is out to get you; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Delusion (You are total confinced of something that is totally untrue; Healing Time: 3D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Hallucinations (Make an Insight roll every Quarter Day. If you fail, suffer a powerful hallucination; Healing Time: 3D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Altered personality (Your personality is altered in a fundamental way; Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Amnesia (You lose all memory and cannot recollect who you or the other adventurers are; Healing Time: D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Catatonic (You stare blankly into oblivion and do not respond to any stimuli; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-horror --Heart attack (Your heart stops, and you die of pure fright.) --1 --

@@ -1,0 +1,18 @@
+!import-table --forbidden-lands-critical-injuries-blunt --show
+!import-table-item --forbidden-lands-critical-injuries-blunt --Stunned --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Breathless --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Concussion (-2 to Scouting; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken Nose (-1 to Manipulation; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken fingers (Cannot use two-handed weapons; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken toes (RUN is a slow action; Healing Time: D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Knocked out teeth (-1 to Manipulation; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Groin hit (1 point of damaged suffered per Move or Melee roll; Healing Time: D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken ribs (-2 to Move and Melee; Healing Time: 2D6 Days) --3 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken arm (Cannot use two-handed weapons; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken leg (RUN is a slow action; Healing Time: 2D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Gouged eye (-2 to Marksmanship and Scouting; Healing Time: 2d6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Crushed foot (RUN is a slow action; Die in D6 Days; Healing Time: 3D6 Days) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Crushed elbow (Cannot use two-handed weapons; Die in D6 Days; Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Crushed knee (RUN is a slow action; Die in D6 Days; Healing Time: Permanent) --2 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Broken neck (Paralyzed from the neck down. If not Healed in time, the effect is permanent; Healing time: 3D6 Days) --1 --
+!import-table-item --forbidden-lands-critical-injuries-blunt --Crushed skull (Your adventure and your life end here) --2 --
