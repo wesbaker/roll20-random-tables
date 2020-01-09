@@ -1,0 +1,18 @@
+!import-table --forbidden-lands-magic-mishaps --show
+!import-table-item --forbidden-lands-magic-mishaps --Someone witnesses your magic and tells others. Your Reputation increases one step. --3 --
+!import-table-item --forbidden-lands-magic-mishaps --Your magic makes you very HUNGRY. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell suddenly makes you very THIRSTY. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --The magic disturbs your sleep. You won’t be able to sleep for D6 days, which makes you SLEEPY. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --Your spell drains your energy, inflicting 1 point of damage to Agility. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --Your magic hurts your body and you suffer 1 point of damage to Strength. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --You are overwhelmed by the power of your own magic and feel that people around you are mere ants compared to you. You suffer 1 point of damage to empathy. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell unleashes demonic visions which inflict 1 point of damage to Wits. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell triggers a magical disease with a Virulence of 2D6. You and everyone within ARM'S LENGTH of you for the next Quarter Day are exposed to the contagion. --2 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell also affects a friend or other unintended victim. A healing or helping spell affects an enemy alongside the intended target. --4 --
+!import-table-item --forbidden-lands-magic-mishaps --Your magic permanently alters your appearance. The GM decides how. --1 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell blinds you. You act as in total darkness for the next full day. --1 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell ravages your mind. Immediately roll for a critical injury (horror). --4 --
+!import-table-item --forbidden-lands-magic-mishaps --The force of the magic breaks bones in your body. Immediately roll for a critical injury (blunt force). --1 --
+!import-table-item --forbidden-lands-magic-mishaps --Your magic attracts a demon from another dimension. The GM can create a demon randomly (see page 78 in the Gamemaster’s Guide) or create it herself. The demon appears within the next Quarter Day and will create all kinds of trouble. --1 --
+!import-table-item --forbidden-lands-magic-mishaps --The spell backfires. An offensive spell affects you instead of your intended target. A protective or healing spell wounds instead of healing. A shapeshift goes horribly wrong and you become a dumb animal. A summoned undead, demon, or illusion turns against you. The GM specifies the details. --4 --
+!import-table-item --forbidden-lands-magic-mishaps --Your magic rips open a rift to another dimension, and a demon pulls you over to the other side. Time to make a new character. Your old character will come back as an NPC after D66 days but will be...changed. --1 --
