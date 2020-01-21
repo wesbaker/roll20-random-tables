@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-precious-lair --show
+!import-table-item --forbidden-lands-finds-precious-lair --D6 gold, 2D6 silver, 4D6 copper --13 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Necklace (2D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Beautiful Tapestry (2D6 gold/3) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Embroidered Carpet (2D6 gold/4) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Gold Goblet (2D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Painting with Golden Frame (2D6 gold/3) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Tray (3D6 gold/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Statue of a Child (3D6 gold/4) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Diadem (3D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Ceiling Candelabrum (3D6 gold/3) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Armchair (3D6 gold/3) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Cradle (3D6 gold/3) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Necklace with Gemstones (4D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Scepter with Gemstones (4D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Crown with Gemstones (4D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Beautiful Desk (4D6 gold/4) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Pulpit (4D6 gold/4) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Table (4D6 gold/5) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Large Rare Gemstone (2d6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Mirror (5D6 gold/5) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Palanquin (5D6 gold/6) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Sarcophagus (6D6 gold/7) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Golden Statue (7D6 gold/8) --1 --
+!import-table-item --forbidden-lands-finds-precious-lair --Artifact --1 --

@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-precious-carried --show
+!import-table-item --forbidden-lands-finds-precious-carried --D6 gold coins --13 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Statuette (5D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Pearls (5D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Bowl (5D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Amulet (5D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Mug (5D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Bracelet (5D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Ring (6D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Gold Necklace (6D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Fur Cloak with Expensive Embroidery and Golden Buckle (6D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Dragonscale Boots (6D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Velvet Gloves (6D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Drinking Horn with Gold Details (D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Embroidery (D6 gold/Normal) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Helmet (2D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Large Shield (2D6 gold/Normal) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Armor (4D6 gold/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Weapon (2D6 gold/Normal) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Unique Book (2D6 gold/Normal) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Rare Gemstone (2D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Ring with Gemstone (2D6 gold/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Scepter (2D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Golden Crown (4D6 gold/Light) --1 --
+!import-table-item --forbidden-lands-finds-precious-carried --Artifact --1 --

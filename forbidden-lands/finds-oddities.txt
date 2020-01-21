@@ -1,0 +1,22 @@
+!import-table --forbidden-lands-finds-oddities --show
+!import-table-item --forbidden-lands-finds-oddities --Smells bad (-1 MANIPULATE) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Someone has painted a strawman on it --2 --
+!import-table-item --forbidden-lands-finds-oddities --Dirty --2 --
+!import-table-item --forbidden-lands-finds-oddities --Bloodstained --2 --
+!import-table-item --forbidden-lands-finds-oddities --Burnted (Halved value) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Bitemarks (Halved value) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Bent (Halved value) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Scratched (Halved value) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Actually a toy (Halved value) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Weird inscriptions --2 --
+!import-table-item --forbidden-lands-finds-oddities --Contains the soul of a former owner. Speaks to the adventurer at night. --1 --
+!import-table-item --forbidden-lands-finds-oddities --Excentric shape --2 --
+!import-table-item --forbidden-lands-finds-oddities --Heavily perfumed --2 --
+!import-table-item --forbidden-lands-finds-oddities --Unnaturally large (Double weight) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Miniature version (Halved weight) --2 --
+!import-table-item --forbidden-lands-finds-oddities --Forgery --2 --
+!import-table-item --forbidden-lands-finds-oddities --Marked with the sigil of the Rust Brothers --2 --
+!import-table-item --forbidden-lands-finds-oddities --Elven heirloom (Double value for elf) --1 --
+!import-table-item --forbidden-lands-finds-oddities --Dwarven heirloom (Double value for dwarf) --1 --
+!import-table-item --forbidden-lands-finds-oddities --Haunted by unhappy ghost --1 --
+!import-table-item --forbidden-lands-finds-oddities --Part of dragon's treasure --1 --

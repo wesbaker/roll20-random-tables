@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-valuable-lair --show
+!import-table-item --forbidden-lands-finds-valuable-lair --4D6 copper coins --13 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Painting (3D6 silver/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Medallion (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Small Silver Chest (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Glass Bowl (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Beautiful Vase (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Brooch (4D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Comb (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Box (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Amulet (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Goblet (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Mask (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Bottle of Expensive Wine (5D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Fine Hat (5D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Tapestry (5D6 silver/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Cabinet (5D6 silver/4) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Carpet (5D6 silver/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Armchair (5D6 silver/3) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Candelabrum (6d6 silver/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Mirror (6D6 silver/3) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Palanquin with Silver Details (7D6 silver/5) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Sarcophagus (8D6 silver/6) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Altar (9D6 silver/6) --1 --
+!import-table-item --forbidden-lands-finds-valuable-lair --Silver Statue (D6 gold/6) --1 --

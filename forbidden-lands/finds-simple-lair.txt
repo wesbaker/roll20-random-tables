@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-simple-lair --show
+!import-table-item --forbidden-lands-finds-simple-lair --4D6 copper coins --13 --
+!import-table-item --forbidden-lands-finds-simple-lair --Copper Bowl (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Copper Plate (3D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Copper Mug (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Knapsack (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Waterskin (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Belt Buckle (4D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Hammer (4D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Saw (4D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Short Sword (D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Small Shield (4D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Axe (4D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Short Spear (5D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Pot (5D6 copper/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Lantern (5D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Gaming Board (5D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Chest (5D6 copper/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Lute (5D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Armor (d6 gold/Heavy) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Mirror (2D6 silver/3) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Palanquin with Copper Details (3D6 silver/4) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Sarcophagus (4D6 silver/4) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Altar (5D6 silver/5) --1 --
+!import-table-item --forbidden-lands-finds-simple-lair --Bronze Statue (6D6 silver/6) --1 --

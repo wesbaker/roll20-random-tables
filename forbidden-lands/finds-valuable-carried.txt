@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-valuable-carried --show
+!import-table-item --forbidden-lands-finds-valuable-carried --3D6 silver coins --13 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Box (2D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Pearl (2D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Bowl (2D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Painting (2D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Mug (2D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Bracelet (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Ring (3D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Necklace (3D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Well-Tailored Cloak with Silver Buckle (3D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Elegant Boots (3D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Calf Skin Gloves (3D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Drinking Horn with Silver Details (4D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Embroidery (4D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Elegant Helmet (4D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Elegant Large Shield (4D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Earring (4D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Elegant One-handed Weapon (4D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Rare Book (5D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Gemstone (6D6 silver/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Statuette (7D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Helmet (8D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Headband (9D6 silver/Light) --1 --
+!import-table-item --forbidden-lands-finds-valuable-carried --Silver Crown (D6 gold/Normal) --1 --

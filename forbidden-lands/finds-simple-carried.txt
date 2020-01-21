@@ -1,0 +1,25 @@
+!import-table --forbidden-lands-finds-simple-carried --show
+!import-table-item --forbidden-lands-finds-simple-carried --2D6 copper coins --13 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bone Statuette (2D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Piece of Amber (2D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Belt Buckle (2D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bone Dice (2D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bone Whistle (2D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Bracelet (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Copper Ring (3D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Necklace (3D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Medallion (3D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Good Boots (3D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Good Gloves (3D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Drinking Horn (4D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Lantern (4D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Dagger (4D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Shield (4D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Earring (4D6 copper/Tiny) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --One-handed Bronze Weapon (D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Book (6D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Simple Gemstone (6D6 copper/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Statuette (6D6 copper/Light) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Bronze Helmet (D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Copper Headband (D6 silver/Normal) --1 --
+!import-table-item --forbidden-lands-finds-simple-carried --Copper Crown (2D6 silver/Normal) --1 --
