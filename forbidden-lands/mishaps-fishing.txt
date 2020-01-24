@@ -1,0 +1,7 @@
+!import-table --forbidden-lands-mishaps-fishing --show
+!import-table-item --forbidden-lands-mishaps-fishing --Snagged Hook/Net: Your hook or net snags on the bottom. You must make a MIGHT roll to be able to retrieve your fishing gear. If you fail, it is lost. --1 --
+!import-table-item --forbidden-lands-mishaps-fishing --Hook in Finger: You manage to pierce your own finger with the hook, instead of hooking a fish. You suffer one point of damage to Strength. Reroll if fishing with a net. --1 --
+!import-table-item --forbidden-lands-mishaps-fishing --Broken Fishing Gear: Your fishing gear breaks. You need to repair it (a CRAFTING roll) or get new gear. --1 --
+!import-table-item --forbidden-lands-mishaps-fishing --Mosquito Swarm: A large swarm of mosquitoes or gnats attacks you, driving you crazy with their bites and buzzing. They attack with four Base Dice, causing damage to Empathy. --1 --
+!import-table-item --forbidden-lands-mishaps-fishing --Splash!: You lose your balance and fall into the water. See rules for swimming and drowning on page 113. --1 --
+!import-table-item --forbidden-lands-mishaps-fishing --Attacked: A vicious fish or eel attacks you, causing a nasty bleeding wound. You suffer one point of damage to Strength. --1 --

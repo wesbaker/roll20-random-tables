@@ -1,0 +1,7 @@
+!import-table --forbidden-lands-mishaps-hunting --show
+!import-table-item --forbidden-lands-mishaps-hunting --Sprained Ankle: You fall or twist your ankle and suffers a critical injury: To RUN becomes a slow action. (Healing Time: D6 days) --1 --
+!import-table-item --forbidden-lands-mishaps-hunting --Lost gear/weapon: You lose some of your hunting gear or a weapon. The GM decides which. --1 --
+!import-table-item --forbidden-lands-mishaps-hunting --Torn Clothes: Your clothes are damaged. Your boots break or your robe snags on thorny plants or sharp rocks. You must roll for the effects of cold. Your clothes can be mended by making a successful CRAFTING roll. --1 --
+!import-table-item --forbidden-lands-mishaps-hunting --Trap: You step into another hunter’s trap. It could be a snare, a net, or a covered pit. You suffer one point of damage to Strength and must make a MOVE roll to get out of the trap. --1 --
+!import-table-item --forbidden-lands-mishaps-hunting --Savage Animal: A wolf, bear or other wild animal feels threatened, and attacks you. --1 --
+!import-table-item --forbidden-lands-mishaps-hunting --Sick Prey: You bring down a random animal, but is sick and whoever eats of its flesh is infected by a disease with a Virulence rating of 3. This is discovered during your next meal. --1 --

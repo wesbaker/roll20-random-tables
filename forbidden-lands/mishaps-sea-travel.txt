@@ -1,0 +1,7 @@
+!import-table --forbidden-lands-mishaps-sea-travel --show
+!import-table-item --forbidden-lands-mishaps-sea-travel --Navigational Error: You sail off course and make no progress on the map during this Quarter Day. --1 --
+!import-table-item --forbidden-lands-mishaps-sea-travel --Sudden Squall: A sudden squall makes your boat tilt suddenly. One important item falls into the water. The GM decides what it is. --1 --
+!import-table-item --forbidden-lands-mishaps-sea-travel --Whirlpool: Your boat is caught in a whirlpool. The skipper must make a SURVIVAL roll (modified by the SAILOR talent). Failure means the boat runs aground and has to be repaired (a CRAFTING roll) before your journey can continue. --1 --
+!import-table-item --forbidden-lands-mishaps-sea-travel --Leak: Your boat springs a leak and takes on water. The leak must be repaired (a CRAFTING roll), which takes one turn (15 minutes), but your journey can continue while you do so. If the leak is not repaired, the boat sinks after D6 hours. --1 --
+!import-table-item --forbidden-lands-mishaps-sea-travel --Overboard: Someone in the group (GM’s choice) falls overboard after a large wave hits the boat. See rules for swimming and drowning on page 113. --1 --
+!import-table-item --forbidden-lands-mishaps-sea-travel --Grounding: Your boat runs aground and must be abandoned or repaired with a CRAFTING roll.The boat must be on the shore to be repaired. --1 --
